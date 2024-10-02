@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gab\\source\\repos\\ProjetoEconomias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF6A25-E945-46A9-BB08-BB5813C878F3}|ProjetoEconomias\\ProjetoEconomias.csproj|c:\\users\\gab\\source\\repos\\projetoeconomias\\projetoeconomias\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CF6A25-E945-46A9-BB08-BB5813C878F3}|ProjetoEconomias\\ProjetoEconomias.csproj|solutionrelative:projetoeconomias\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF6A25-E945-46A9-BB08-BB5813C878F3}|ProjetoEconomias\\ProjetoEconomias.csproj|c:\\users\\gab\\source\\repos\\projetoeconomias\\projetoeconomias\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CF6A25-E945-46A9-BB08-BB5813C878F3}|ProjetoEconomias\\ProjetoEconomias.csproj|solutionrelative:projetoeconomias\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF6A25-E945-46A9-BB08-BB5813C878F3}|ProjetoEconomias\\ProjetoEconomias.csproj|c:\\users\\gab\\source\\repos\\projetoeconomias\\projetoeconomias\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CF6A25-E945-46A9-BB08-BB5813C878F3}|ProjetoEconomias\\ProjetoEconomias.csproj|solutionrelative:projetoeconomias\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF6A25-E945-46A9-BB08-BB5813C878F3}|ProjetoEconomias\\ProjetoEconomias.csproj|c:\\users\\gab\\source\\repos\\projetoeconomias\\projetoeconomias\\models\\financeiroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CF6A25-E945-46A9-BB08-BB5813C878F3}|ProjetoEconomias\\ProjetoEconomias.csproj|solutionrelative:projetoeconomias\\models\\financeiroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF6A25-E945-46A9-BB08-BB5813C878F3}|ProjetoEconomias\\ProjetoEconomias.csproj|c:\\users\\gab\\source\\repos\\projetoeconomias\\projetoeconomias\\models\\mes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CF6A25-E945-46A9-BB08-BB5813C878F3}|ProjetoEconomias\\ProjetoEconomias.csproj|solutionrelative:projetoeconomias\\models\\mes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF6A25-E945-46A9-BB08-BB5813C878F3}|ProjetoEconomias\\ProjetoEconomias.csproj|c:\\users\\gab\\source\\repos\\projetoeconomias\\projetoeconomias\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CF6A25-E945-46A9-BB08-BB5813C878F3}|ProjetoEconomias\\ProjetoEconomias.csproj|solutionrelative:projetoeconomias\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CF6A25-E945-46A9-BB08-BB5813C878F3}|ProjetoEconomias\\ProjetoEconomias.csproj|c:\\users\\gab\\source\\repos\\projetoeconomias\\projetoeconomias\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{90CF6A25-E945-46A9-BB08-BB5813C878F3}|ProjetoEconomias\\ProjetoEconomias.csproj|solutionrelative:projetoeconomias\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gab\\source\\repos\\ProjetoEconomias\\ProjetoEconomias\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetoEconomias\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Gab\\source\\repos\\ProjetoEconomias\\ProjetoEconomias\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetoEconomias\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T01:17:47.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mes.cs",
+              "DocumentMoniker": "C:\\Users\\Gab\\source\\repos\\ProjetoEconomias\\ProjetoEconomias\\Models\\Mes.cs",
+              "RelativeDocumentMoniker": "ProjetoEconomias\\Models\\Mes.cs",
+              "ToolTip": "C:\\Users\\Gab\\source\\repos\\ProjetoEconomias\\ProjetoEconomias\\Models\\Mes.cs",
+              "RelativeToolTip": "ProjetoEconomias\\Models\\Mes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:58:54.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Gab\\source\\repos\\ProjetoEconomias\\ProjetoEconomias\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ProjetoEconomias\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Gab\\source\\repos\\ProjetoEconomias\\ProjetoEconomias\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProjetoEconomias\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-05T00:49:18.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Gab\\source\\repos\\ProjetoEconomias\\ProjetoEconomias\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjetoEconomias\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Gab\\source\\repos\\ProjetoEconomias\\ProjetoEconomias\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjetoEconomias\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:41:18.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nota.cs",
+              "DocumentMoniker": "C:\\Users\\Gab\\source\\repos\\ProjetoEconomias\\ProjetoEconomias\\Models\\Nota.cs",
+              "RelativeDocumentMoniker": "ProjetoEconomias\\Models\\Nota.cs",
+              "ToolTip": "C:\\Users\\Gab\\source\\repos\\ProjetoEconomias\\ProjetoEconomias\\Models\\Nota.cs",
+              "RelativeToolTip": "ProjetoEconomias\\Models\\Nota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:41:12.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinanceiroViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gab\\source\\repos\\ProjetoEconomias\\ProjetoEconomias\\Models\\FinanceiroViewModel.cs",
+              "RelativeDocumentMoniker": "ProjetoEconomias\\Models\\FinanceiroViewModel.cs",
+              "ToolTip": "C:\\Users\\Gab\\source\\repos\\ProjetoEconomias\\ProjetoEconomias\\Models\\FinanceiroViewModel.cs",
+              "RelativeToolTip": "ProjetoEconomias\\Models\\FinanceiroViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:38:15.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gab\\source\\repos\\ProjetoEconomias\\ProjetoEconomias\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoEconomias\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gab\\source\\repos\\ProjetoEconomias\\ProjetoEconomias\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjetoEconomias\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T00:37:43.377Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
